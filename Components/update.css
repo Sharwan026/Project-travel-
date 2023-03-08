@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://wallpaper-house.com/data/out/12/wallpaper2you_578713.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.id{
+    color: aliceblue;
+    font-family: 'Shantell Sans', cursive;
+    text-align: center;
+    
+    /* font-family: 'Josefin Sans', sans-serif; */
+}
+.button{
+    /* font-family: 'Josefin Sans', sans-serif; */
+    font-family: 'Shantell Sans', cursive;
+    height: 40px;
+    width: 98px;
+    font-size: x-large;
+}

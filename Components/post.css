@@ -1,0 +1,31 @@
+body{
+    background-image: url("https://wallpaper-house.com/data/out/12/wallpaper2you_578713.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.BG{
+    color: aliceblue;
+    font-family: 'Shantell Sans', cursive;
+    margin-top: -200px;
+    margin-left: 700px;
+}
+.buttons{
+    font-family: 'Shantell Sans', cursive;
+    height: 40px;
+    width: 90px;
+    font-size: x-large;
+    
+}
+.x{
+    text-align: center;
+    margin-top: 380px;
+    /* margin-top: 200px; */
+}
+.a{
+    /* text-align: center; */
+    color: aliceblue;
+    margin-left:20px ;
+    font-size:xxx-large;
+    /* text-align: center;
+    margin-top: 200px; */
+}

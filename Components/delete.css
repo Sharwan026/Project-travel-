@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://i0.wp.com/www.freedomtravelplanners.com/wp-content/uploads/2016/08/Map-With-Ship-World-Travel-Wallpaper-HD-Desktop-Mobile-Free-Download.jpg?ssl=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Bg{
+    font-family: 'Shantell Sans', cursive;
+    color: aliceblue;
+    
+}
+.button{
+    font-family: 'Shantell Sans', cursive;
+    height: 40px;
+    width: 90px;
+    font-size: x-large;
+    text-align: center;
+    margin-left: 103px;
+}
+.form{
+    margin-top: 200px;
+    margin-left: 990px;
+    color:black;
+    font-family: 'Shantell Sans', cursive;
+
+}
+.title{
+    margin-left: 0px;
+}
